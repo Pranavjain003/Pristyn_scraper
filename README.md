@@ -4,17 +4,6 @@ This project scrapes detailed information about doctors listed on the [Pristyn C
 
 ---
 
-## 📁 Project Structure
-
-```
-├── doctors_by_treatment.csv          # Contains treatments and associated doctor profile URLs
-├── unique_scraped_doctor_profiles.csv # Output file with detailed doctor information (deduplicated)
-├── code.ipynb                        # Main scraping script (Jupyter Notebook)
-└── README.md                         # This file
-```
-
----
-
 ## 🚀 How It Works
 
 1. **Input CSV**  
